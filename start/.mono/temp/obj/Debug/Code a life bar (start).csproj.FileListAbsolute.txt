@@ -1,0 +1,6 @@
+D:\Documents\GoDot Games\ui_code_life_bar\start\.mono\temp\bin\Debug\Code a life bar (start).dll
+D:\Documents\GoDot Games\ui_code_life_bar\start\.mono\temp\bin\Debug\Code a life bar (start).pdb
+D:\Documents\GoDot Games\ui_code_life_bar\start\.mono\temp\obj\Debug\Code a life bar (start).csprojAssemblyReference.cache
+D:\Documents\GoDot Games\ui_code_life_bar\start\.mono\temp\obj\Debug\Code a life bar (start).csproj.CoreCompileInputs.cache
+D:\Documents\GoDot Games\ui_code_life_bar\start\.mono\temp\obj\Debug\Code a life bar (start).dll
+D:\Documents\GoDot Games\ui_code_life_bar\start\.mono\temp\obj\Debug\Code a life bar (start).pdb
