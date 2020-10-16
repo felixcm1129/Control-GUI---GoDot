@@ -25,6 +25,7 @@ margin_bottom = 748.0
 [node name="Player" parent="Characters" instance=ExtResource( 3 )]
 
 [node name="Enemy" parent="Characters" instance=ExtResource( 4 )]
+[connection signal="Died" from="Characters/Player" to="GUI" method="onPlayerDied"]
 [connection signal="HealthChanged" from="Characters/Player" to="GUI" method="OnPlayerHealthChanged"]
 
 [editable path="GUI"]
